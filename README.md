@@ -43,19 +43,16 @@ Passionné par la création de solutions innovantes et collaboratives dans les d
 ## 📂 Projets phares
 
 ### 🛒 **Emash**
-
 Clone du concept FaceMash de Mark Zuckerberg, adapté et modernisé avec une touche personnelle.
 
 - **Technologies** : Next.js, MySQL
 - **Fonctionnalités** : Catégories dynamiques, votes, et statistiques des utilisateurs.
 
 ### 🛍️ **Vitrine**
-
 Site web de vente en ligne développé récemment.
 
 - **Technologies** : Next.js, Node.js, MySQL
 - **Fonctionnalités** : Gestion des produits, panier d'achat, et intégration de paiements.
-
 
 ---
 
@@ -68,7 +65,7 @@ Site web de vente en ligne développé récemment.
 
 ## 📫 Contact
 
-- **LinkedIn** : [focus hd]([https://linkedin.com/in/votreprofil](https://www.linkedin.com/in/focus-hd-736505274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- **LinkedIn** : [Focus HD](https://www.linkedin.com/in/focus-hd-736505274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Email** : [imanykalumuna@gmail.com](mailto:imanykalumuna@gmail.com)
 
 ---
@@ -79,4 +76,3 @@ Site web de vente en ligne développé récemment.
 - Création d’interfaces utilisateur dynamiques et adaptées (ReactJS, Tailwind CSS).
 - Organisation d’événements pour promouvoir les étudiants et les talents locaux.
 - Exploration de nouvelles techniques de design graphique pour des rendus visuels captivants.
-
